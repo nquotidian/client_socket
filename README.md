@@ -1,2 +1,1 @@
-# cse224_hw
-Homework for 224, 19fall
+Socket programming of a simple client
